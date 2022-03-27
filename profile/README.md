@@ -1,5 +1,5 @@
 <a href="https://edptw.github.io">
-  <img src="https://raw.githubusercontent.com/EDPTW/.github/main/images/EDPTW_Logo.svg" align="left" width="180px"/>
+  <img src="https://raw.githubusercontent.com/EDPTW/.github/main/images/EEPTW_Logo.svg" align="left" width="180px"/>
 </a>
 
 # Easy Education Platform
