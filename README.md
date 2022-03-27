@@ -1,4 +1,4 @@
-<a href="https://edptw.github.io">
+<a href="https://eeptw.github.io">
   <img src="https://raw.githubusercontent.com/EDPTW/.github/main/images/EEPTW_Logo.svg" align="left" width="180px"/>
 </a>
 
