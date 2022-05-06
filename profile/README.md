@@ -30,6 +30,6 @@
 
 ## Support us
 <a href="https://ko-fi.com/X8X376PDR">
-  <p align="center"><img src="../images/support_us_on_ko-fi.svg" ></p>
-  <p align="center"><img src="../images/support_us_on_ko-fi_tw.svg" ></p>  
+  <p align="center"><img src="https://raw.githubusercontent.com/Lipoic/.github/main/images/support_us_on_ko-fi.svg" ></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/Lipoic/.github/main/images/support_us_on_ko-fi_tw.svg" ></p>  
 </a>
