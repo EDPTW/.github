@@ -14,7 +14,7 @@
 ## Projects
 * ### Server
   [Repository](https://github.com/Lipoic/Lipoic-Server)  
-  Initiator: [Twinkle Sprinkle](https://github.com/Mg138) and [SiongSng](https://github.com/SiongSng)  
+  Initiator:  [SiongSng](https://github.com/SiongSng) and [Madeline Sparkle](https://mg138.github.io)  
   Technology: Rust, Rocket, MongoDB  
   Managed by [backend](https://github.com/orgs/Lipoic/teams/backend) team.
 * ### Frontend
@@ -28,6 +28,8 @@
   Technology: C++, SDL2, Bgfx  
   Managed by [application](https://github.com/orgs/Lipoic/teams/application) team.
 
+## Support us
 <a href="https://ko-fi.com/X8X376PDR">
-  <p align="center"><img src="https://ko-fi.com/img/githubbutton_sm.svg" ></p>
+  <p align="center"><img src="../images/support_us_on_ko-fi.svg" ></p>
+  <p align="center"><img src="../images/support_us_on_ko-fi_tw.svg" ></p>  
 </a>
