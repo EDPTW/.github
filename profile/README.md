@@ -13,6 +13,7 @@
 
 * Website: https://lipoic.github.io
 * Discord: https://discord.gg/ArKk54ajfr
+* Join us: https://forms.gle/ThqCrTrrGPEqLByr7
 
 ## Projects
 * ### Server
