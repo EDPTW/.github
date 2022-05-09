@@ -1,5 +1,5 @@
 <a href="https://lipoic.github.io">
-  <img src="https://raw.githubusercontent.com/Lipoic/.github/main/images/Lipoic_Logo.svg" align="left" width="180px"/>
+  <img src="https://raw.githubusercontent.com/Lipoic/Lipoic-Assets/main/logo/logo.svg" align="left" width="105px"/>
 </a>
 
 # Lipoic
