@@ -12,7 +12,7 @@
 
 正在開發中的台灣教育平台，希冀讓所有學生不受空間限制盡情學習知識，讓老師們有個實用、便利的教學平台，結合電子書、考試、課程、教室、視訊教學、自主學習等多樣功能。
 
-- Website: https://lipoic.github.io
+- Website: https://www.lipoic.org
 - Discord: https://discord.gg/ArKk54ajfr
 - Join us: https://forms.gle/ThqCrTrrGPEqLByr7
 
