@@ -10,10 +10,10 @@
 
 ## About Us
 
-正在開發中的台灣教育平台，希冀讓所有學生不受空間限制盡情學習知識，讓老師們有個實用、便利的教學平台，結合電子書、考試、課程、教室、視訊教學、自主學習等多樣功能。
+Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平台，並讓學生能不受空間限制學習知識，老師能更便利地傳授知識，並且我們也熱衷於開放文化的精神，與我們一起翻轉教育吧！
 
 - Website: https://www.lipoic.org
-- Discord: https://discord.gg/ArKk54ajfr
+- Discord: https://discord.gg/lipoic
 - Join us: https://forms.gle/ThqCrTrrGPEqLByr7
 
 ## Projects
