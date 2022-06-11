@@ -22,17 +22,17 @@ Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平�
   [Repository](https://github.com/Lipoic/Lipoic-Server)  
   Initiator: [SiongSng](https://github.com/SiongSng) and [Madeline Sparkle](https://mg138.github.io)  
   Technology: Rust, Rocket, MongoDB  
-  Managed by [backend](https://github.com/orgs/Lipoic/teams/backend) team.
+  Power by [backend](https://github.com/orgs/Lipoic/teams/backend) team.
 - ### Frontend
   [Repository](https://github.com/Lipoic/Lipoic-Frontend)  
   Initiator: [SiongSng](https://github.com/SiongSng) and [LAZPbanahaker](https://github.com/banahaker)  
-  Technology: TypeScript, Vite, Vue, Pinia  
-  Managed by [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.
+  Technology: TypeScript, Vite, Vue 3, Pinia  
+  Power by [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.
 - ### Application
   [Repository](https://github.com/Lipoic/Lipoic-Application)  
-  Initiator: [Luminous](https://github.com/Luminous-Coder) and [SiongSng](https://github.com/SiongSng)  
-  Technology: C++, SDL2, Bgfx  
-  Managed by [application](https://github.com/orgs/Lipoic/teams/application) team.
+  Initiator: [SiongSng](https://github.com/SiongSng) and [tommy2131](https://github.com/xiaomiao-fong)
+  Technology: Flutter, Dart, C++
+  Power by [application](https://github.com/orgs/Lipoic/teams/application) team.
 
 ## Support us
 
