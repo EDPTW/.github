@@ -20,7 +20,7 @@ Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平�
 
 - ### Server
   [Repository](https://github.com/Lipoic/Lipoic-Server)  
-  Initiator: [SiongSng](https://github.com/SiongSng) and [Madeline Sparkle](https://mg138.github.io)  
+  Initiator: [Madeline Sparkle](https://mg138.github.io) and [SiongSng](https://github.com/SiongSng)  
   Technology: Rust, Rocket, MongoDB  
   Power by [backend](https://github.com/orgs/Lipoic/teams/backend) team.
 - ### Frontend
@@ -30,7 +30,7 @@ Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平�
   Power by [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.
 - ### Application
   [Repository](https://github.com/Lipoic/Lipoic-Application)  
-  Initiator: [SiongSng](https://github.com/SiongSng) and [tommy2131](https://github.com/xiaomiao-fong)
+  Initiator: [SiongSng](https://github.com/SiongSng) and [tommy2131](https://github.com/xiaomiao-fong)  
   Technology: Flutter, Dart, C++
   Power by [application](https://github.com/orgs/Lipoic/teams/application) team.
 
