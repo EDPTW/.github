@@ -18,10 +18,10 @@ Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平�
 
 ## Projects
 
-- ### Server
-  [Repository](https://github.com/Lipoic/Lipoic-Server)  
+- ### Backend
+  [Repository](https://github.com/Lipoic/Lipoic-Backend)  
   Initiator: [Madeline Sparkle](https://mg138.github.io) and [SiongSng](https://github.com/SiongSng)  
-  Technology: Rust, Rocket, MongoDB  
+  Technology: Node.js, Typescript, Express.js , MongoDB  
   Power by [backend](https://github.com/orgs/Lipoic/teams/backend) team.
 - ### Frontend
   [Repository](https://github.com/Lipoic/Lipoic-Frontend)  
