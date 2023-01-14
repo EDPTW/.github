@@ -4,7 +4,7 @@
 
 # Lipoic
 
-# 線上整合教育平台
+# 來品一課
 
 <br></br>
 
@@ -20,15 +20,19 @@ Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平�
 
 - ### Backend
   [Repository](https://github.com/Lipoic/Lipoic-Backend)  
-  Technology: Node.js, Typescript, Express.js , MongoDB  
+  Technology: Node.js, Typescript, Express.js and MongoDB  
   Power by [backend](https://github.com/orgs/Lipoic/teams/backend) team.
 - ### Frontend
   [Repository](https://github.com/Lipoic/Lipoic-Frontend)  
-  Technology: TypeScript, Vite, Vue 3, Pinia  
+  Technology: TypeScript, Vite, Vue 3 and Pinia  
   Power by [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.
+- ### Site
+  [Repository](https://github.com/Lipoic/Lipoic-Site)  
+  Technology: HTML, CSS and SCSS  
+  Power by [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.  
 - ### Application
   [Repository](https://github.com/Lipoic/Lipoic-Application)  
-  Technology: Flutter, Dart, C++
+  Technology: Flutter and Dart
   Power by [application](https://github.com/orgs/Lipoic/teams/application) team.
 
 ## Support us
