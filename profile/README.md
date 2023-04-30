@@ -18,22 +18,29 @@ Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平�
 
 ## Projects
 
-- ### Backend
-  [Repository](https://github.com/Lipoic/Lipoic-Backend)  
-  Technology: Node.js, Typescript, Express.js and MongoDB  
-  Power by [backend](https://github.com/orgs/Lipoic/teams/backend) team.
-- ### Frontend
-  [Repository](https://github.com/Lipoic/Lipoic-Frontend)  
-  Technology: TypeScript, Vite, Vue 3 and Pinia  
-  Power by [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.
-- ### Site
-  [Repository](https://github.com/Lipoic/Lipoic-Site)  
-  Technology: HTML, CSS and SCSS  
-  Power by [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.  
-- ### Application
-  [Repository](https://github.com/Lipoic/Lipoic-Application)  
-  Technology: Flutter and Dart
-  Power by [application](https://github.com/orgs/Lipoic/teams/application) team.
+- ### [Backend](https://github.com/Lipoic/Lipoic-Backend)
+  The backend.
+
+  Technology: TypeScript, Node.js, Express.js, and MongoDB.  
+  Maintained by our [backend](https://github.com/orgs/Lipoic/teams/backend) team.
+
+- ### [Frontend](https://github.com/Lipoic/Lipoic-Frontend)
+  The web application frontend.
+
+  Technology: TypeScript, Vite, Vue 3, and Pinia.  
+  Maintained by our [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.
+
+- ### [Site](https://github.com/Lipoic/Lipoic-Site)
+  The website that introduces us.
+
+  Technology: HTML, CSS, and SCSS.  
+  Maintained by our [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.
+
+- ### [Application](https://github.com/Lipoic/Lipoic-Application)
+  The mobile application.
+
+  Technology: Dart and Flutter.  
+  Maintained by our [application](https://github.com/orgs/Lipoic/teams/application) team.
 
 ## Support us
 
