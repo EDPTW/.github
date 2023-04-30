@@ -31,7 +31,7 @@ Lipoic 是一個致力於整合與改善遠距授課與線上教室的教育平�
   Maintained by our [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.
 
 - ### [Site](https://github.com/Lipoic/Lipoic-Site)
-  The website.
+  The website that introduces us.
 
   Technology: HTML, CSS, and SCSS.  
   Maintained by our [frontend](https://github.com/orgs/Lipoic/teams/frontend) team.
